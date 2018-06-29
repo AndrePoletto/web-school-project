@@ -1,0 +1,10 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.midoriya-img {
+    display: block;
+    max-height:50vh;
+    width: auto;
+    height: auto;
+}
